@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marti/Documents/Proyectos/Cola/cmake-build-debug/Cola.h
+iostream
+-
+
+C:/Users/marti/Documents/Proyectos/Cola/main.cpp
+iostream
+-
+cmake-build-debug/Cola.h
+C:/Users/marti/Documents/Proyectos/Cola/cmake-build-debug/Cola.h
+

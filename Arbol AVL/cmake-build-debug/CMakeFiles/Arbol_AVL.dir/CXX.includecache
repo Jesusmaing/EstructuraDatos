@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marti/Documents/Proyectos/Arbol AVL/AVL.h
+iostream
+-
+Cola.h
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Cola.h
+AVL.tpp
+C:/Users/marti/Documents/Proyectos/Arbol AVL/AVL.tpp
+
+C:/Users/marti/Documents/Proyectos/Arbol AVL/AVL.tpp
+AVL.h
+C:/Users/marti/Documents/Proyectos/Arbol AVL/AVL.h
+
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Cola.h
+Cola.tpp
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Cola.tpp
+
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Cola.tpp
+Cola.h
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Cola.h
+
+C:/Users/marti/Documents/Proyectos/Arbol AVL/GestionLista.cpp
+GestionLista.h
+C:/Users/marti/Documents/Proyectos/Arbol AVL/GestionLista.h
+
+C:/Users/marti/Documents/Proyectos/Arbol AVL/GestionLista.h
+iostream
+-
+cstdlib
+-
+
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Utilerias.h
+Utilerias.tpp
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Utilerias.tpp
+
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Utilerias.tpp
+iostream
+-
+limits
+-
+Utilerias.h
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Utilerias.h
+
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Vector.cpp
+Vector.h
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Vector.h
+iostream
+-
+cmath
+-
+
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Vector.h
+iostream
+-
+
+C:/Users/marti/Documents/Proyectos/Arbol AVL/main.cpp
+iostream
+-
+cstdlib
+-
+GestionLista.h
+C:/Users/marti/Documents/Proyectos/Arbol AVL/GestionLista.h
+Utilerias.h
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Utilerias.h
+AVL.h
+C:/Users/marti/Documents/Proyectos/Arbol AVL/AVL.h
+Vector.h
+C:/Users/marti/Documents/Proyectos/Arbol AVL/Vector.h
+

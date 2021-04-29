@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1611693107 source:c:\users\marti\documents\proyectos\vector\vector\main.cpp
+	<iostream>
+	<limits>
+	"Vector.h"
+
+1612051438 c:\users\marti\documents\proyectos\vector\vector\vector.h
+	<stdexcept>
+
+1611695152 source:c:\users\marti\documents\proyectos\vector\vector\vector.cpp
+	"Vector.h"
+	<iostream>
+	<cmath>
+

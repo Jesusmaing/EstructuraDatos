@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1613349846 source:c:\users\marti\documents\proyectos\pila\pila\gestionpilas.cpp
+	"GestionPilas.h"
+
+1613349846 c:\users\marti\documents\proyectos\pila\pila\gestionpilas.h
+	<iostream>
+	"Utilerias.h"
+
+1613353642 c:\users\marti\documents\proyectos\pila\pila\utilerias.h
+	"Utilerias.tpp"
+
+1612580152 c:\users\marti\documents\proyectos\pila\pila\utilerias.tpp
+	<iostream>
+	<limits>
+	"Utilerias.h"
+
+1612558995 source:c:\users\marti\documents\proyectos\pila\pila\src\pila.cpp
+	<iostream>
+	"Pila.h"
+
+1612558654 c:\users\marti\documents\proyectos\pila\pila\include\pila.h
+
+1613349846 source:c:\users\marti\documents\proyectos\pila\pila\vector.cpp
+	"Vector.h"
+	<iostream>
+	<cmath>
+
+1613349846 c:\users\marti\documents\proyectos\pila\pila\vector.h
+	<iostream>
+
+1613353642 source:c:\users\marti\documents\proyectos\pila\pila\main.cpp
+	<iostream>
+	"GestionPilas.h"
+	"Pila.h"
+	"Vector.h"
+
+1613349846 c:\users\marti\documents\proyectos\pila\pila\pila.h
+	<iostream>
+	"Pila.tpp"
+
+1613352214 c:\users\marti\documents\proyectos\pila\pila\pila.tpp
+	<iostream>
+	"Pila.h"
+

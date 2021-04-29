@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1616821340 source:c:\users\marti\documents\proyectos\listacircular\gestionlista.cpp
+	"GestionLista.h"
+
+1616823022 c:\users\marti\documents\proyectos\listacircular\gestionlista.h
+	<iostream>
+	<cstdlib>
+
+1616821340 c:\users\marti\documents\proyectos\listacircular\utilerias.h
+	"Utilerias.tpp"
+
+1616385628 c:\users\marti\documents\proyectos\listacircular\utilerias.tpp
+	<iostream>
+	<limits>
+	"Utilerias.h"
+
+1616821340 c:\users\marti\documents\proyectos\listacircular\vector.h
+	<iostream>
+
+1616821340 source:c:\users\marti\documents\proyectos\listacircular\vector.cpp
+	"Vector.h"
+	<iostream>
+	<cmath>
+
+1616822529 source:c:\users\marti\documents\proyectos\listacircular\main.cpp
+	<iostream>
+	<cstdlib>
+	"GestionLista.h"
+	"Utilerias.h"
+	"Lista.h"
+	"Vector.h"
+
+1616822286 c:\users\marti\documents\proyectos\listacircular\lista.h
+	<iostream>
+	"Lista.tpp"
+
+1616822608 c:\users\marti\documents\proyectos\listacircular\lista.tpp
+	"Lista.h"
+

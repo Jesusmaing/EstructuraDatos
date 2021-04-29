@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/GestionLista.h
+iostream
+-
+cstdlib
+-
+
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/ListaEnlazadaSimple.h
+iostream
+-
+ListaEnlazadaSimple.tpp
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/ListaEnlazadaSimple.tpp
+
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/ListaEnlazadaSimple.tpp
+ListaEnlazadaSimple.h
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/ListaEnlazadaSimple.h
+
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/Utilerias.h
+Utilerias.tpp
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/Utilerias.tpp
+
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/Utilerias.tpp
+iostream
+-
+limits
+-
+Utilerias.h
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/Utilerias.h
+
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/main.cpp
+iostream
+-
+ListaEnlazadaSimple.h
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/ListaEnlazadaSimple.h
+GestionLista.h
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/GestionLista.h
+Utilerias.h
+C:/Users/marti/Documents/Proyectos/ListaEnlazadaSimple/Utilerias.h
+

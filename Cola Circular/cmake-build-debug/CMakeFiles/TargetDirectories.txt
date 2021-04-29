@@ -1,0 +1,3 @@
+C:/Users/marti/Documents/Proyectos/ColaCircular/cmake-build-debug/CMakeFiles/PruebaCola.dir
+C:/Users/marti/Documents/Proyectos/ColaCircular/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marti/Documents/Proyectos/ColaCircular/cmake-build-debug/CMakeFiles/rebuild_cache.dir
