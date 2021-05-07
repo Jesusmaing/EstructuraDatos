@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marti/Documents/Proyectos/Estructura de datos/ArbolB/ArbolB.h
+ArbolB.tpp
+C:/Users/marti/Documents/Proyectos/Estructura de datos/ArbolB/ArbolB.tpp
+
+C:/Users/marti/Documents/Proyectos/Estructura de datos/ArbolB/ArbolB.tpp
+ArbolB.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/ArbolB/ArbolB.h
+
+C:/Users/marti/Documents/Proyectos/Estructura de datos/ArbolB/main.cpp
+iostream
+-
+ArbolB.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/ArbolB/ArbolB.h
+
