@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/GestionLista.cpp" "C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/CMakeFiles/ArbolBinarioBusqueda.dir/GestionLista.cpp.obj"
-  "C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/Vector.cpp" "C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/CMakeFiles/ArbolBinarioBusqueda.dir/Vector.cpp.obj"
-  "C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/main.cpp" "C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/CMakeFiles/ArbolBinarioBusqueda.dir/main.cpp.obj"
+  "C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/GestionLista.cpp" "C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/CMakeFiles/ArbolBinarioBusqueda.dir/GestionLista.cpp.obj"
+  "C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/Vector.cpp" "C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/CMakeFiles/ArbolBinarioBusqueda.dir/Vector.cpp.obj"
+  "C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/main.cpp" "C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/CMakeFiles/ArbolBinarioBusqueda.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

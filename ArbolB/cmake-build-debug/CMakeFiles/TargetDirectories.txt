@@ -1,0 +1,3 @@
+C:/Users/marti/Documents/Proyectos/Estructura de datos/ArbolB/cmake-build-debug/CMakeFiles/ArbolB.dir
+C:/Users/marti/Documents/Proyectos/Estructura de datos/ArbolB/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marti/Documents/Proyectos/Estructura de datos/ArbolB/cmake-build-debug/CMakeFiles/rebuild_cache.dir

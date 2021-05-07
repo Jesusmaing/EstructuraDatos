@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/marti/Documents/Proyectos/ColaCircular/GestionCola.cpp" "C:/Users/marti/Documents/Proyectos/ColaCircular/cmake-build-debug/CMakeFiles/PruebaCola.dir/GestionCola.cpp.obj"
-  "C:/Users/marti/Documents/Proyectos/ColaCircular/main.cpp" "C:/Users/marti/Documents/Proyectos/ColaCircular/cmake-build-debug/CMakeFiles/PruebaCola.dir/main.cpp.obj"
+  "C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/GestionCola.cpp" "C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/cmake-build-debug/CMakeFiles/PruebaCola.dir/GestionCola.cpp.obj"
+  "C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/main.cpp" "C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/cmake-build-debug/CMakeFiles/PruebaCola.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

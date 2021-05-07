@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/ColaCircular.h
+iostream
+-
+ColaCircular.tpp
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/ColaCircular.tpp
+
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/ColaCircular.tpp
+ColaCircular.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/ColaCircular.h
+
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/Grafica.h
+iostream
+-
+fstream
+-
+cstdlib
+-
+Grafica.tpp
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/Grafica.tpp
+
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/Grafica.tpp
+Grafica.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/Grafica.h
+ColaCircular.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/ColaCircular.h
+Pila.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/Pila.h
+
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/Pila.h
+iostream
+-
+Pila.tpp
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/Pila.tpp
+
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/Pila.tpp
+iostream
+-
+Pila.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/Pila.h
+
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/main.cpp
+iostream
+-
+Grafica.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Fleury/Grafica.h
+cstdlib
+-
+

@@ -62,8 +62,8 @@ void ColaCircular<T>::desencolar() // pendiente
 {
     if(estaVacia()) throw ColaVacia();
     Nodo *auxSalir = ultimo -> siguiente;
-    ultimo -> siguiente = ultimo -> siguiente -> siguiente;
-    if(ultimo -> siguiente = NULL) ultimo = NULL;
+    ultimo -> siguiente = (ultimo -> siguiente -> siguiente);
+    if(ultimo -> siguiente == NULL) ultimo = NULL;
     delete auxSalir;
     --tam;
 }

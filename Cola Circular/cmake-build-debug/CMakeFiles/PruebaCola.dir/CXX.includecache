@@ -6,27 +6,23 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/marti/Documents/Proyectos/ColaCircular/ColaCircular.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/ColaCircular.h
 iostream
 -
 ColaCircular.tpp
-C:/Users/marti/Documents/Proyectos/ColaCircular/ColaCircular.tpp
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/ColaCircular.tpp
 
-C:/Users/marti/Documents/Proyectos/ColaCircular/ColaCircular.tpp
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/ColaCircular.tpp
 ColaCircular.h
-C:/Users/marti/Documents/Proyectos/ColaCircular/ColaCircular.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/ColaCircular.h
 
-C:/Users/marti/Documents/Proyectos/ColaCircular/GestionCola.cpp
-GestionCola.h
-C:/Users/marti/Documents/Proyectos/ColaCircular/GestionCola.h
-
-C:/Users/marti/Documents/Proyectos/ColaCircular/GestionCola.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/GestionCola.h
 iostream
 -
 Utilerias.h
-C:/Users/marti/Documents/Proyectos/ColaCircular/Utilerias.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/Utilerias.h
 
-C:/Users/marti/Documents/Proyectos/ColaCircular/Utilerias.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/Utilerias.h
 iostream
 -
 limits
@@ -34,13 +30,13 @@ limits
 cstdlib
 -
 Utilerias.tpp
-C:/Users/marti/Documents/Proyectos/ColaCircular/Utilerias.tpp
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/Utilerias.tpp
 
-C:/Users/marti/Documents/Proyectos/ColaCircular/Utilerias.tpp
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/Utilerias.tpp
 Utilerias.h
-C:/Users/marti/Documents/Proyectos/ColaCircular/Utilerias.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/Utilerias.h
 
-C:/Users/marti/Documents/Proyectos/ColaCircular/main.cpp
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/main.cpp
 iostream
 -
 cstdlib
@@ -48,9 +44,9 @@ cstdlib
 string
 -
 Utilerias.h
-C:/Users/marti/Documents/Proyectos/ColaCircular/Utilerias.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/Utilerias.h
 GestionCola.h
-C:/Users/marti/Documents/Proyectos/ColaCircular/GestionCola.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/GestionCola.h
 ColaCircular.h
-C:/Users/marti/Documents/Proyectos/ColaCircular/ColaCircular.h
+C:/Users/marti/Documents/Proyectos/Estructura de datos/Cola Circular/ColaCircular.h
 

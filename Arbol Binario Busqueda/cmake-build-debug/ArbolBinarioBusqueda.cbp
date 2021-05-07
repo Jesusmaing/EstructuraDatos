@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug"/>
+				<Option working_dir="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ArbolBinarioBusqueda">
-				<Option output="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/ArbolBinarioBusqueda.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug"/>
+				<Option output="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/ArbolBinarioBusqueda.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -33,15 +33,15 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArbolBinarioBusqueda"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArbolBinarioBusqueda"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="ArbolBinarioBusqueda/fast">
-				<Option output="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/ArbolBinarioBusqueda.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug"/>
+				<Option output="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/ArbolBinarioBusqueda.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -55,67 +55,67 @@
 					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArbolBinarioBusqueda/fast"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 ArbolBinarioBusqueda/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug"/>
+				<Option working_dir="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug"/>
+				<Option working_dir="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/AVL.h">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/AVL.h">
 			<Option target="ArbolBinarioBusqueda"/>
 		</Unit>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/AVL.tpp">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/AVL.tpp">
 			<Option target="ArbolBinarioBusqueda"/>
 		</Unit>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/Cola.h">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/Cola.h">
 			<Option target="ArbolBinarioBusqueda"/>
 		</Unit>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/Cola.tpp">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/Cola.tpp">
 			<Option target="ArbolBinarioBusqueda"/>
 		</Unit>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/GestionLista.cpp">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/GestionLista.cpp">
 			<Option target="ArbolBinarioBusqueda"/>
 		</Unit>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/GestionLista.h">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/GestionLista.h">
 			<Option target="ArbolBinarioBusqueda"/>
 		</Unit>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/Utilerias.h">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/Utilerias.h">
 			<Option target="ArbolBinarioBusqueda"/>
 		</Unit>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/Utilerias.tpp">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/Utilerias.tpp">
 			<Option target="ArbolBinarioBusqueda"/>
 		</Unit>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/Vector.cpp">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/Vector.cpp">
 			<Option target="ArbolBinarioBusqueda"/>
 		</Unit>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/Vector.h">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/Vector.h">
 			<Option target="ArbolBinarioBusqueda"/>
 		</Unit>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/main.cpp">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/main.cpp">
 			<Option target="ArbolBinarioBusqueda"/>
 		</Unit>
-		<Unit filename="C:/Users/marti/Documents/Proyectos/ArbolBinarioBusqueda/CMakeLists.txt">
+		<Unit filename="C:/Users/marti/Documents/Proyectos/Estructura de datos/Arbol Binario Busqueda/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

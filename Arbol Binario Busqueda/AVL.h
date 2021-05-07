@@ -10,7 +10,7 @@ Descripción: Archivo de cabecera de Arbol semibalanceado
 #include <iostream>
 #include "Cola.h"
 
-template<typename T>
+Btemplate<typename T>
 class AVL {
 public:
     /** @brief Constructor por default de la clase.

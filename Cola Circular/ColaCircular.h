@@ -71,6 +71,7 @@ public:
     /** @brief  M@eacute;todo para vaciar la cola completamente
      *
      */
+     
     void vaciar();
     //******************************************************************************************
     /** @brief  M@eacute;todo para imprimir los elementos de la cola
